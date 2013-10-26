@@ -3,7 +3,7 @@
 
     $.fn.fillInForm = function (data, options) {
         return this.each(function () {
-            var $this = $(this)
+            var $this = $(this),
                 opts  = $.extend({
                     "attr_name": 'name'
                 }, options);

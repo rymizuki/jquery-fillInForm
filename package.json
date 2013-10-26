@@ -1,0 +1,12 @@
+{
+  "name": "jquery-fillInForm",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-cli": "~0.1.9",
+    "grunt-contrib-uglify": "~0.2.4",
+    "grunt-contrib-jshint": "~0.7.0",
+    "matchdep": "~0.3.0"
+  }
+}
